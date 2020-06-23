@@ -934,14 +934,16 @@ body {
 }
 
 .section-twelveTh {
+  background-color: red;
   height: 500px;
   text-align: center;
-  background-image: url("image/divide2_l (1).jpg");
   background: url(image/divide2_l\ \(1\).jpg) center 0% no-repeat fixed;
+  width: 100%;
   margin: 0 auto;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+  z-index: 2;
 }
 
 /* 謎肉と濃厚海老のヌードル */
